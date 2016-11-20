@@ -1,0 +1,2 @@
+1> No Sync between address field and map. Possible solution :- Allow user to choose between map or manual address.
+2> Blood type and health issues getting reset on edit
